@@ -1,12 +1,12 @@
 {
-  "name": "iobroker.template",
+  "name": "iobroker.grohe-template",
   "version": "0.0.1",
   "description": "Template for adapter development",
   "author": {
     "name": "Author",
     "email": "author@mail.com"
   },
-  "homepage": "https://github.com/Author/ioBroker.template",
+  "homepage": "https://github.com/dieegorenan/ioBroker.grohe-template",
   "license": "MIT",
   "keywords": [
     "ioBroker",
@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Author/ioBroker.template"
+    "url": "https://github.com/dieegorenan/ioBroker.grohe-template"
   },
   "dependencies": {
     "@iobroker/adapter-core": "^2.4.0"
@@ -51,7 +51,7 @@
     "lint": "eslint"
   },
   "bugs": {
-    "url": "https://github.com/Author/ioBroker.template/issues"
+    "url": "https://github.com/dieegorenan/ioBroker.grohe-template/issues"
   },
   "readmeFilename": "README.md"
 }
